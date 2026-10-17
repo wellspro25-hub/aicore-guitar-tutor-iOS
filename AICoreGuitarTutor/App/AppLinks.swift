@@ -21,7 +21,7 @@ enum AppLinks {
 
     /// Sponsor cards feed — the sponsors.json file from the web version, hosted on
     /// your GitHub Pages site. Edit that file to sell or change ad space.
-    static let sponsorsFeed = URL(string: "https://example.github.io/guitar-tutor/sponsors.json")!
+    static let sponsorsFeed = URL(string: "https://wellspro25-hub.github.io/guitar-tutor/sponsors.json")!
 
     /// Your "advertise with us" page (rate card + contact).
     static let advertise = URL(string: "https://example.com/advertise")!
